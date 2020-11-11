@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserSubmitReal.vue 當 submit 成功後將會顯示使用者最喜歡的食物 1`] = `
+<div>
+  <form>
+    <input
+      data-username=""
+    />
+     
+    <input
+      type="submit"
+    />
+  </form>
+   
+  <span>
+    123
+  </span>
+   
+  <!---->
+</div>
+`;
