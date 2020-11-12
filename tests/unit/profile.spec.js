@@ -19,5 +19,6 @@ describe("Profile.vue", () => {
       },
     });
     expect(wrapper.text()).toMatch("沒有權限訪問");
+    expect(wrapper.element).toMatchSnapshot();
   });
 });

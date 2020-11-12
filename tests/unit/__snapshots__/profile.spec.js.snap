@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile.vue 當 isAdmin 為 false，將顯示: 沒有權限訪問 1`] = `
+<div>
+  <div>
+    沒有權限訪問
+  </div>
+   
+  <button>
+    back
+  </button>
+</div>
+`;

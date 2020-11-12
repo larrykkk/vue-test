@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`UserSubmitReal.vue 當 submit 成功後將會顯示使用者最喜歡的食物 1`] = `
+exports[`UserSubmitReal.vue 預期快照測試會依照 data 輸出內容 1`] = `
 <div>
   <form>
     <input
@@ -13,9 +13,19 @@ exports[`UserSubmitReal.vue 當 submit 成功後將會顯示使用者最喜歡�
   </form>
    
   <span>
-    123
+    summer
   </span>
    
-  <!---->
+  <div
+    class="message"
+  >
+    <div>
+      嗨, larry,
+    </div>
+     
+    <div>
+      你最喜歡的食物是: 米血
+    </div>
+  </div>
 </div>
 `;

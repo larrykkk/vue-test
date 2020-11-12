@@ -4,7 +4,7 @@
       <input v-model="username" data-username />
       <input type="submit" />
     </form>
-<span>123</span>
+<span>summer</span>
     <div class="message" v-if="submitted">
       <div>嗨, {{ username }},</div>
       <div>你最喜歡的食物是: {{ favorFood }}</div>
